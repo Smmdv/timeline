@@ -1,0 +1,25 @@
+h1{
+    margin-left: 30%;
+}
+body{
+    background-color: dimgrey;
+}
+.geheel {
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:5px;
+    text-align: center;
+    background-color: darkgrey;
+}
+.geheel th {
+    border:1px solid black;
+    padding:5px;
+    background:grey;
+
+}
+.geheel td {
+    border:1px solid black;
+    padding:5px;
+    background-color: darkgrey;
+}
+
